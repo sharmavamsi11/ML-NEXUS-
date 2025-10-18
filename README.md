@@ -10,4 +10,4 @@ Classification Task — Wine Dataset
 Models Used: Logistic Regression, SVM, KNN  
 Metrics:Accuracy, F1-Score  
 Bar chart of model accuracies
-Best Model: SVM (RBF Kernel)
+Best Model: KNN
